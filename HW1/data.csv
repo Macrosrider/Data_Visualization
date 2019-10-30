@@ -1,0 +1,801 @@
+year,population,type
+1950,37297.64,estimate
+1951,37815.54,estimate
+1952,38360.078,estimate
+1953,38915.814,estimate
+1954,39471.403,estimate
+1955,40019.483,estimate
+1956,40557.034,estimate
+1957,41085.019,estimate
+1958,41607.893,estimate
+1959,42132.44,estimate
+1960,42664.646,estimate
+1961,43206.353,estimate
+1962,43752.227,estimate
+1963,44288.607,estimate
+1964,44796.959,estimate
+1965,45264.552,estimate
+1966,45684.983,estimate
+1967,46063.219,estimate
+1968,46411.816,estimate
+1969,46749.289,estimate
+1970,47088.862,estimate
+1971,47435.008,estimate
+1972,47783.006,estimate
+1973,48125.829,estimate
+1974,48452.623,estimate
+1975,48755.662,estimate
+1976,49032.729,estimate
+1977,49287.118,estimate
+1978,49523.304,estimate
+1979,49747.998,estimate
+1980,49965.872,estimate
+1981,50176.399,estimate
+1982,50377.069,estimate
+1983,50568.025,estimate
+1984,50749.176,estimate
+1985,50919.275,estimate
+1986,51077.457,estimate
+1987,51219.911,estimate
+1988,51338.392,estimate
+1989,51422.338,estimate
+1990,51463.101,estimate
+1991,51461.273,estimate
+1992,51415.957,estimate
+1993,51316.013,estimate
+1994,51147.771,estimate
+1995,50903.783,estimate
+1996,50580.467,estimate
+1997,50187.28,estimate
+1998,49746.523,estimate
+1999,49288.739,estimate
+2000,48838.058,estimate
+2001,48401.648,estimate
+2002,47980.033,estimate
+2003,47582.463,estimate
+2004,47217.489,estimate
+2005,46890.775,estimate
+2006,46607.397,estimate
+2007,46366.347,estimate
+2008,46158.709,estimate
+2009,45970.942,estimate
+2010,45792.086,estimate
+2011,45619.85,estimate
+2012,45453.805,estimate
+2013,45286.988,estimate
+2014,45111.53,estimate
+2015,44921.636,estimate
+2016,44713.708,estimate
+2017,44487.708,estimate
+2018,44246.158,estimate
+2019,43993.643,estimate
+2020,43733.759,estimate
+2020,43733.759,medium variant
+2021,43466.822,medium variant
+2022,43192.12,medium variant
+2023,42911.306,medium variant
+2024,42626.269,medium variant
+2025,42338.589,medium variant
+2026,42049.216,medium variant
+2027,41758.643,medium variant
+2028,41467.225,medium variant
+2029,41175.058,medium variant
+2030,40882.333,medium variant
+2031,40589.437,medium variant
+2032,40296.88,medium variant
+2033,40005.067,medium variant
+2034,39714.398,medium variant
+2035,39425.165,medium variant
+2036,39137.598,medium variant
+2037,38851.724,medium variant
+2038,38567.427,medium variant
+2039,38284.416,medium variant
+2040,38002.49,medium variant
+2041,37721.611,medium variant
+2042,37441.747,medium variant
+2043,37162.735,medium variant
+2044,36884.349,medium variant
+2045,36606.383,medium variant
+2046,36328.74,medium variant
+2047,36051.336,medium variant
+2048,35774.011,medium variant
+2049,35496.632,medium variant
+2050,35219.046,medium variant
+2051,34941.24,medium variant
+2052,34663.197,medium variant
+2053,34384.751,medium variant
+2054,34105.732,medium variant
+2055,33826.061,medium variant
+2056,33545.778,medium variant
+2057,33265.074,medium variant
+2058,32984.191,medium variant
+2059,32703.478,medium variant
+2060,32423.255,medium variant
+2061,32143.782,medium variant
+2062,31865.329,medium variant
+2063,31588.344,medium variant
+2064,31313.304,medium variant
+2065,31040.686,medium variant
+2066,30770.828,medium variant
+2067,30504.096,medium variant
+2068,30240.979,medium variant
+2069,29982.052,medium variant
+2070,29727.777,medium variant
+2071,29478.455,medium variant
+2072,29234.37,medium variant
+2073,28995.894,medium variant
+2074,28763.392,medium variant
+2075,28537.156,medium variant
+2076,28317.332,medium variant
+2077,28103.953,medium variant
+2078,27897.082,medium variant
+2079,27696.728,medium variant
+2080,27502.824,medium variant
+2081,27315.268,medium variant
+2082,27133.861,medium variant
+2083,26958.197,medium variant
+2084,26787.772,medium variant
+2085,26622.098,medium variant
+2086,26460.883,medium variant
+2087,26303.784,medium variant
+2088,26150.178,medium variant
+2089,25999.366,medium variant
+2090,25850.733,medium variant
+2091,25703.826,medium variant
+2092,25558.329,medium variant
+2093,25413.992,medium variant
+2094,25270.622,medium variant
+2095,25127.984,medium variant
+2096,24985.775,medium variant
+2097,24843.662,medium variant
+2098,24701.22,medium variant
+2099,24557.994,medium variant
+2100,24413.452,medium variant
+2020,43733.759,high variant
+2021,43510.982,high variant
+2022,43292.86,high variant
+2023,43078.591,high variant
+2024,42867.59,high variant
+2025,42659.52,high variant
+2026,42454.279,high variant
+2027,42252.034,high variant
+2028,42053.13,high variant
+2029,41858.049,high variant
+2030,41667.188,high variant
+2031,41480.667,high variant
+2032,41298.118,high variant
+2033,41118.601,high variant
+2034,40940.865,high variant
+2035,40763.98,high variant
+2036,40587.641,high variant
+2037,40412.036,high variant
+2038,40237.542,high variant
+2039,40064.686,high variant
+2040,39893.925,high variant
+2041,39725.356,high variant
+2042,39558.893,high variant
+2043,39394.7,high variant
+2044,39232.946,high variant
+2045,39073.785,high variant
+2046,38917.317,high variant
+2047,38763.66,high variant
+2048,38612.927,high variant
+2049,38465.247,high variant
+2050,38320.726,high variant
+2051,38179.494,high variant
+2052,38041.629,high variant
+2053,37907.094,high variant
+2054,37775.811,high variant
+2055,37647.762,high variant
+2056,37523.022,high variant
+2057,37401.732,high variant
+2058,37284.041,high variant
+2059,37170.198,high variant
+2060,37060.356,high variant
+2061,36954.714,high variant
+2062,36853.399,high variant
+2063,36756.507,high variant
+2064,36664.105,high variant
+2065,36576.312,high variant
+2066,36493.326,high variant
+2067,36415.372,high variant
+2068,36342.79,high variant
+2069,36275.917,high variant
+2070,36215.116,high variant
+2071,36160.568,high variant
+2072,36112.487,high variant
+2073,36071.32,high variant
+2074,36037.48,high variant
+2075,36011.351,high variant
+2076,35993.059,high variant
+2077,35982.66,high variant
+2078,35980.359,high variant
+2079,35986.339,high variant
+2080,36000.687,high variant
+2081,36023.347,high variant
+2082,36054.128,high variant
+2083,36092.706,high variant
+2084,36138.643,high variant
+2085,36191.506,high variant
+2086,36251.001,high variant
+2087,36316.761,high variant
+2088,36388.148,high variant
+2089,36464.468,high variant
+2090,36545.037,high variant
+2091,36629.342,high variant
+2092,36716.933,high variant
+2093,36807.456,high variant
+2094,36900.529,high variant
+2095,36995.732,high variant
+2096,37092.588,high variant
+2097,37190.558,high variant
+2098,37288.994,high variant
+2099,37387.213,high variant
+2100,37484.422,high variant
+2020,43733.759,low variant
+2021,43416.407,low variant
+2022,43083.771,low variant
+2023,42738.389,low variant
+2024,42382.422,low variant
+2025,42017.661,low variant
+2026,41645.446,low variant
+2027,41266.779,low variant
+2028,40882.304,low variant
+2029,40492.407,low variant
+2030,40097.479,low variant
+2031,39698.166,low variant
+2032,39295.592,low variant
+2033,38891.5,low variant
+2034,38487.917,low variant
+2035,38086.355,low variant
+2036,37687.673,low variant
+2037,37291.812,low variant
+2038,36898.283,low variant
+2039,36506.108,low variant
+2040,36114.527,low variant
+2041,35723.487,low variant
+2042,35333.164,low variant
+2043,34943.284,low variant
+2044,34553.496,low variant
+2045,34163.522,low variant
+2046,33773.167,low variant
+2047,33382.263,low variant
+2048,32990.592,low variant
+2049,32597.89,low variant
+2050,32203.978,low variant
+2051,31808.765,low variant
+2052,31412.18,low variant
+2053,31013.983,low variant
+2054,30613.917,low variant
+2055,30211.843,low variant
+2056,29807.811,low variant
+2057,29401.982,low variant
+2058,28994.603,low variant
+2059,28585.959,low variant
+2060,28176.402,low variant
+2061,27766.202,low variant
+2062,27355.716,low variant
+2063,26945.52,low variant
+2064,26536.297,low variant
+2065,26128.688,low variant
+2066,25723.141,low variant
+2067,25320.076,low variant
+2068,24920.132,low variant
+2069,24524.034,low variant
+2070,24132.394,low variant
+2071,23745.606,low variant
+2072,23364.022,low variant
+2073,22988.125,low variant
+2074,22618.387,low variant
+2075,22255.183,low variant
+2076,21898.712,low variant
+2077,21549.09,low variant
+2078,21206.401,low variant
+2079,20870.681,low variant
+2080,20541.871,low variant
+2081,20219.939,low variant
+2082,19904.689,low variant
+2083,19595.76,low variant
+2084,19292.657,low variant
+2085,18994.908,low variant
+2086,18702.258,low variant
+2087,18414.391,low variant
+2088,18130.689,low variant
+2089,17850.409,low variant
+2090,17572.918,low variant
+2091,17297.806,low variant
+2092,17024.823,low variant
+2093,16753.821,low variant
+2094,16484.707,low variant
+2095,16217.317,low variant
+2096,15951.449,low variant
+2097,15686.865,low variant
+2098,15423.223,low variant
+2099,15160.101,low variant
+2100,14897.041,low variant
+2020,43733.759,constant fertility
+2021,43468.429,constant fertility
+2022,43196.458,constant fertility
+2023,42918.754,constant fertility
+2024,42636.085,constant fertility
+2025,42349.116,constant fertility
+2026,42058.4,constant fertility
+2027,41764.378,constant fertility
+2028,41467.393,constant fertility
+2029,41167.703,constant fertility
+2030,40865.574,constant fertility
+2031,40561.283,constant fertility
+2032,40255.305,constant fertility
+2033,39948.147,constant fertility
+2034,39640.482,constant fertility
+2035,39332.772,constant fertility
+2036,39025.342,constant fertility
+2037,38718.235,constant fertility
+2038,38411.389,constant fertility
+2039,38104.601,constant fertility
+2040,37797.717,constant fertility
+2041,37490.765,constant fertility
+2042,37183.79,constant fertility
+2043,36876.725,constant fertility
+2044,36569.456,constant fertility
+2045,36261.878,constant fertility
+2046,35953.944,constant fertility
+2047,35645.598,constant fertility
+2048,35336.756,constant fertility
+2049,35027.324,constant fertility
+2050,34717.2,constant fertility
+2051,34406.415,constant fertility
+2052,34094.911,constant fertility
+2053,33782.499,constant fertility
+2054,33468.985,constant fertility
+2055,33154.217,constant fertility
+2056,32838.237,constant fertility
+2057,32521.205,constant fertility
+2058,32203.249,constant fertility
+2059,31884.549,constant fertility
+2060,31565.349,constant fertility
+2061,31245.839,constant fertility
+2062,30926.295,constant fertility
+2063,30607.119,constant fertility
+2064,30288.784,constant fertility
+2065,29971.74,constant fertility
+2066,29656.325,constant fertility
+2067,29342.907,constant fertility
+2068,29031.993,constant fertility
+2069,28724.145,constant fertility
+2070,28419.882,constant fertility
+2071,28119.506,constant fertility
+2072,27823.342,constant fertility
+2073,27531.883,constant fertility
+2074,27245.627,constant fertility
+2075,26965.025,constant fertility
+2076,26690.227,constant fertility
+2077,26421.337,constant fertility
+2078,26158.45,constant fertility
+2079,25901.599,constant fertility
+2080,25650.756,constant fertility
+2081,25405.846,constant fertility
+2082,25166.706,constant fertility
+2083,24932.996,constant fertility
+2084,24704.279,constant fertility
+2085,24480.108,constant fertility
+2086,24260.24,constant fertility
+2087,24044.304,constant fertility
+2088,23831.627,constant fertility
+2089,23621.423,constant fertility
+2090,23413.019,constant fertility
+2091,23205.912,constant fertility
+2092,22999.813,constant fertility
+2093,22794.476,constant fertility
+2094,22589.756,constant fertility
+2095,22385.39,constant fertility
+2096,22181.096,constant fertility
+2097,21976.506,constant fertility
+2098,21771.13,constant fertility
+2099,21564.46,constant fertility
+2100,21355.851,constant fertility
+2020,43733.759,instant replacement
+2021,43580.45,instant replacement
+2022,43466.269,instant replacement
+2023,43375.901,instant replacement
+2024,43286.687,instant replacement
+2025,43181.991,instant replacement
+2026,43057.297,instant replacement
+2027,42917.167,instant replacement
+2028,42764.869,instant replacement
+2029,42606.768,instant replacement
+2030,42447.572,instant replacement
+2031,42287.439,instant replacement
+2032,42124.597,instant replacement
+2033,41959.868,instant replacement
+2034,41794.046,instant replacement
+2035,41627.887,instant replacement
+2036,41462.079,instant replacement
+2037,41297.162,instant replacement
+2038,41133.583,instant replacement
+2039,40971.713,instant replacement
+2040,40811.949,instant replacement
+2041,40654.635,instant replacement
+2042,40500.271,instant replacement
+2043,40349.595,instant replacement
+2044,40203.441,instant replacement
+2045,40062.405,instant replacement
+2046,39926.786,instant replacement
+2047,39796.61,instant replacement
+2048,39671.874,instant replacement
+2049,39552.459,instant replacement
+2050,39438.227,instant replacement
+2051,39329.162,instant replacement
+2052,39225.096,instant replacement
+2053,39125.449,instant replacement
+2054,39029.416,instant replacement
+2055,38936.347,instant replacement
+2056,38846.023,instant replacement
+2057,38758.301,instant replacement
+2058,38672.805,instant replacement
+2059,38589.127,instant replacement
+2060,38506.965,instant replacement
+2061,38426.276,instant replacement
+2062,38347.07,instant replacement
+2063,38269.266,instant replacement
+2064,38192.77,instant replacement
+2065,38117.676,instant replacement
+2066,38044.103,instant replacement
+2067,37972.45,instant replacement
+2068,37903.439,instant replacement
+2069,37838.014,instant replacement
+2070,37777.011,instant replacement
+2071,37720.778,instant replacement
+2072,37669.711,instant replacement
+2073,37624.724,instant replacement
+2074,37586.872,instant replacement
+2075,37556.93,instant replacement
+2076,37535.262,instant replacement
+2077,37521.963,instant replacement
+2078,37517.2,instant replacement
+2079,37521.042,instant replacement
+2080,37533.461,instant replacement
+2081,37554.38,instant replacement
+2082,37583.536,instant replacement
+2083,37620.479,instant replacement
+2084,37664.504,instant replacement
+2085,37715.001,instant replacement
+2086,37771.529,instant replacement
+2087,37833.545,instant replacement
+2088,37900.042,instant replacement
+2089,37969.878,instant replacement
+2090,38042.009,instant replacement
+2091,38115.688,instant replacement
+2092,38190.32,instant replacement
+2093,38265.472,instant replacement
+2094,38340.708,instant replacement
+2095,38415.546,instant replacement
+2096,38489.372,instant replacement
+2097,38561.497,instant replacement
+2098,38631.062,instant replacement
+2099,38697.127,instant replacement
+2100,38758.607,instant replacement
+2020,43733.759,momentum
+2021,43564.349,momentum
+2022,43426.984,momentum
+2023,43307.277,momentum
+2024,43184.021,momentum
+2025,43041.75,momentum
+2026,42876.095,momentum
+2027,42691.438,momentum
+2028,42491.592,momentum
+2029,42283.458,momentum
+2030,42072.247,momentum
+2031,41858.474,momentum
+2032,41640.457,momentum
+2033,41418.808,momentum
+2034,41194.023,momentum
+2035,40966.628,momentum
+2036,40737.365,momentum
+2037,40507.062,momentum
+2038,40276.466,momentum
+2039,40046.303,momentum
+2040,39817.289,momentum
+2041,39589.899,momentum
+2042,39364.75,momentum
+2043,39142.786,momentum
+2044,38925.109,momentum
+2045,38712.516,momentum
+2046,38505.458,momentum
+2047,38304.013,momentum
+2048,38108.092,momentum
+2049,37917.43,momentum
+2050,37731.737,momentum
+2051,37551.122,momentum
+2052,37375.502,momentum
+2053,37204.328,momentum
+2054,37036.847,momentum
+2055,36872.468,momentum
+2056,36711.062,momentum
+2057,36552.666,momentum
+2058,36397.118,momentum
+2059,36244.265,momentum
+2060,36094.083,momentum
+2061,35946.635,momentum
+2062,35802.136,momentum
+2063,35660.874,momentum
+2064,35523.201,momentum
+2065,35389.546,momentum
+2066,35260.12,momentum
+2067,35135.361,momentum
+2068,35016.197,momentum
+2069,34903.785,momentum
+2070,34799.08,momentum
+2071,34702.347,momentum
+2072,34613.761,momentum
+2073,34533.851,momentum
+2074,34463.138,momentum
+2075,34401.949,momentum
+2076,34350.325,momentum
+2077,34308.011,momentum
+2078,34274.406,momentum
+2079,34248.685,momentum
+2080,34230.055,momentum
+2081,34218.098,momentum
+2082,34212.322,momentum
+2083,34211.652,momentum
+2084,34214.894,momentum
+2085,34220.945,momentum
+2086,34229.213,momentum
+2087,34239.187,momentum
+2088,34250.077,momentum
+2089,34261.098,momentum
+2090,34271.613,momentum
+2091,34281.146,momentum
+2092,34289.391,momentum
+2093,34296.19,momentum
+2094,34301.449,momentum
+2095,34305.123,momentum
+2096,34307.181,momentum
+2097,34307.621,momentum
+2098,34306.434,momentum
+2099,34303.648,momentum
+2100,34299.293,momentum
+2020,43733.759,zero migration
+2021,43460.493,zero migration
+2022,43181.379,zero migration
+2023,42897.282,zero migration
+2024,42609.04,zero migration
+2025,42317.435,zero migration
+2026,42023.349,zero migration
+2027,41727.587,zero migration
+2028,41430.964,zero migration
+2029,41134.252,zero migration
+2030,40838.134,zero migration
+2031,40543.121,zero migration
+2032,40249.542,zero migration
+2033,39957.451,zero migration
+2034,39666.738,zero migration
+2035,39377.32,zero migration
+2036,39089.33,zero migration
+2037,38802.868,zero migration
+2038,38517.895,zero migration
+2039,38234.233,zero migration
+2040,37951.765,zero migration
+2041,37670.431,zero migration
+2042,37390.174,zero migration
+2043,37110.785,zero migration
+2044,36832.076,zero migration
+2045,36553.809,zero migration
+2046,36275.903,zero migration
+2047,35998.262,zero migration
+2048,35720.725,zero migration
+2049,35443.144,zero migration
+2050,35165.373,zero migration
+2051,34887.401,zero migration
+2052,34609.192,zero migration
+2053,34330.587,zero migration
+2054,34051.416,zero migration
+2055,33771.574,zero migration
+2056,33491.128,zero migration
+2057,33210.261,zero migration
+2058,32929.219,zero migration
+2059,32648.342,zero migration
+2060,32367.95,zero migration
+2061,32088.323,zero migration
+2062,31809.718,zero migration
+2063,31532.584,zero migration
+2064,31257.413,zero migration
+2065,30984.695,zero migration
+2066,30714.754,zero migration
+2067,30447.958,zero migration
+2068,30184.809,zero migration
+2069,29925.869,zero migration
+2070,29671.624,zero migration
+2071,29422.379,zero migration
+2072,29178.391,zero migration
+2073,28940.034,zero migration
+2074,28707.7,zero migration
+2075,28481.673,zero migration
+2076,28262.08,zero migration
+2077,28048.973,zero migration
+2078,27842.393,zero migration
+2079,27642.356,zero migration
+2080,27448.793,zero migration
+2081,27261.599,zero migration
+2082,27080.577,zero migration
+2083,26905.315,zero migration
+2084,26735.295,zero migration
+2085,26570.038,zero migration
+2086,26409.246,zero migration
+2087,26252.562,zero migration
+2088,26099.388,zero migration
+2089,25949.001,zero migration
+2090,25800.774,zero migration
+2091,25654.251,zero migration
+2092,25509.144,zero migration
+2093,25365.18,zero migration
+2094,25222.174,zero migration
+2095,25079.87,zero migration
+2096,24937.991,zero migration
+2097,24796.171,zero migration
+2098,24654.012,zero migration
+2099,24511.045,zero migration
+2100,24366.739,zero migration
+2020,43733.759,constant mortality
+2021,43447.755,constant mortality
+2022,43151.887,constant mortality
+2023,42847.205,constant mortality
+2024,42534.717,constant mortality
+2025,42215.297,constant mortality
+2026,41889.807,constant mortality
+2027,41558.972,constant mortality
+2028,41223.482,constant mortality
+2029,40883.951,constant mortality
+2030,40540.982,constant mortality
+2031,40195.103,constant mortality
+2032,39846.865,constant mortality
+2033,39496.822,constant mortality
+2034,39145.543,constant mortality
+2035,38793.442,constant mortality
+2036,38440.951,constant mortality
+2037,38088.291,constant mortality
+2038,37735.562,constant mortality
+2039,37382.76,constant mortality
+2040,37029.905,constant mortality
+2041,36677.085,constant mortality
+2042,36324.478,constant mortality
+2043,35972.115,constant mortality
+2044,35620.05,constant mortality
+2045,35268.298,constant mortality
+2046,34916.925,constant mortality
+2047,34565.922,constant mortality
+2048,34215.066,constant mortality
+2049,33864.054,constant mortality
+2050,33512.682,constant mortality
+2051,33161.03,constant mortality
+2052,32809.181,constant mortality
+2053,32457.07,constant mortality
+2054,32104.561,constant mortality
+2055,31751.652,constant mortality
+2056,31398.53,constant mortality
+2057,31045.554,constant mortality
+2058,30693.215,constant mortality
+2059,30342.093,constant mortality
+2060,29992.788,constant mortality
+2061,29645.702,constant mortality
+2062,29301.333,constant mortality
+2063,28960.499,constant mortality
+2064,28624.129,constant mortality
+2065,28293.052,constant mortality
+2066,27967.717,constant mortality
+2067,27648.552,constant mortality
+2068,27336.283,constant mortality
+2069,27031.737,constant mortality
+2070,26735.501,constant mortality
+2071,26447.869,constant mortality
+2072,26168.91,constant mortality
+2073,25898.667,constant mortality
+2074,25637.115,constant mortality
+2075,25384.087,constant mortality
+2076,25139.508,constant mortality
+2077,24903.103,constant mortality
+2078,24674.275,constant mortality
+2079,24452.248,constant mortality
+2080,24236.28,constant mortality
+2081,24026.03,constant mortality
+2082,23821.081,constant mortality
+2083,23620.577,constant mortality
+2084,23423.487,constant mortality
+2085,23228.983,constant mortality
+2086,23036.668,constant mortality
+2087,22846.292,constant mortality
+2088,22657.55,constant mortality
+2089,22470.227,constant mortality
+2090,22284.126,constant mortality
+2091,22099.199,constant mortality
+2092,21915.425,constant mortality
+2093,21732.906,constant mortality
+2094,21551.785,constant mortality
+2095,21372.297,constant mortality
+2096,21194.75,constant mortality
+2097,21019.543,constant mortality
+2098,20847.149,constant mortality
+2099,20678.12,constant mortality
+2100,20513.055,constant mortality
+2020,43733.759,no change
+2021,43452.325,no change
+2022,43159.826,no change
+2023,42857.326,no change
+2024,42545.696,no change
+2025,42225.812,no change
+2026,41898.367,no change
+2027,41564,no change
+2028,41223.222,no change
+2029,40876.497,no change
+2030,40524.285,no change
+2031,40167.064,no change
+2032,39805.437,no change
+2033,39440.125,no change
+2034,39071.916,no change
+2035,38701.435,no change
+2036,38329.186,no change
+2037,37955.415,no change
+2038,37580.286,no change
+2039,37203.838,no change
+2040,36826.192,no change
+2041,36447.478,no change
+2042,36067.955,no change
+2043,35687.756,no change
+2044,35307.056,no change
+2045,34925.957,no change
+2046,34544.563,no change
+2047,34162.916,no change
+2048,33780.858,no change
+2049,33398.146,no change
+2050,33014.622,no change
+2051,32630.357,no change
+2052,32245.474,no change
+2053,31859.855,no change
+2054,31473.315,no change
+2055,31085.843,no change
+2056,30697.578,no change
+2057,30308.873,no change
+2058,29920.071,no change
+2059,29531.652,no change
+2060,29144.097,no change
+2061,28757.772,no change
+2062,28373.146,no change
+2063,27991.025,no change
+2064,27612.334,no change
+2065,27237.876,no change
+2066,26868.111,no change
+2067,26503.457,no change
+2068,26144.692,no change
+2069,25792.614,no change
+2070,25447.867,no change
+2071,25110.74,no change
+2072,24781.385,no change
+2073,24459.951,no change
+2074,24146.56,no change
+2075,23841.167,no change
+2076,23543.77,no change
+2077,23254.128,no change
+2078,22971.691,no change
+2079,22695.717,no change
+2080,22425.502,no change
+2081,22160.755,no change
+2082,21901.105,no change
+2083,21645.736,no change
+2084,21393.733,no change
+2085,21144.328,no change
+2086,20897.134,no change
+2087,20651.942,no change
+2088,20408.392,no change
+2089,20166.165,no change
+2090,19925.064,no change
+2091,19685.001,no change
+2092,19445.985,no change
+2093,19208.136,no change
+2094,18971.657,no change
+2095,18736.814,no change
+2096,18503.92,no change
+2097,18273.377,no change
+2098,18045.583,no change
+2099,17821.078,no change
+2100,17600.38,no change

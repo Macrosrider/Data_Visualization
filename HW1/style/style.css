@@ -1,0 +1,65 @@
+body{
+    background-color: #F3F7F7;
+}
+.blue_line{
+    stroke: #3288bd;
+    stroke-width: 2;
+    fill: none;
+}
+
+.red_line{
+    stroke: #d53e4f;
+    stroke-dasharray: 3;
+    stroke-width: 2;
+    fill: none;
+}
+
+.text_red{
+    fill: #d53e4f;
+    font-size: 13px;
+    font-family: "Ubuntu Mono";
+}
+
+.text_gray{
+    fill: #5D646F;
+    font-size: 13px;
+    font-family: "Ubuntu Mono";
+}
+
+.tick line{
+    stroke: #5D646F;
+    opacity: 0.2;
+    stroke-dasharray: 2,2;
+}
+
+.tick{
+    color: #5D646F;
+    font-family: "Ubuntu Mono";
+    font-size: 13px;
+}
+
+.title{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    padding: 0;
+    color: #5D646F;
+    font-family: "Ubuntu Mono";
+}
+
+.subtitle{
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 0;
+    color: #5D646F;
+    font-family: "Ubuntu Mono";
+}
+
+.source{
+    position: absolute;
+    left: 710px;
+    top: 620px;
+    color: #5D646F;
+    font-size: 13px;
+    font-family: "Ubuntu Mono";
+}
